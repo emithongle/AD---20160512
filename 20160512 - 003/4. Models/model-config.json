@@ -1,0 +1,56 @@
+{
+    "address": {
+        "20160513_134726": {
+            "layers": [
+                [
+                    10,
+                    "Sigmoid"
+                ],
+                [
+                    2,
+                    "Softmax"
+                ]
+            ],
+            "learning_rate": 0.01,
+            "learning_rule": "adagrad",
+            "n_iter": 1,
+            "type": "Neural-Network"
+        }
+    },
+    "name": {
+        "20160513_134726": {
+            "layers": [
+                [
+                    10,
+                    "Sigmoid"
+                ],
+                [
+                    2,
+                    "Softmax"
+                ]
+            ],
+            "learning_rate": 0.01,
+            "learning_rule": "adagrad",
+            "n_iter": 1,
+            "type": "Neural-Network"
+        }
+    },
+    "phone": {
+        "20160513_134726": {
+            "layers": [
+                [
+                    10,
+                    "Sigmoid"
+                ],
+                [
+                    2,
+                    "Softmax"
+                ]
+            ],
+            "learning_rate": 0.01,
+            "learning_rule": "adagrad",
+            "n_iter": 1,
+            "type": "Neural-Network"
+        }
+    }
+}
