@@ -76,21 +76,21 @@ model_configs = {
         'layers': [(10, 'Sigmoid'), (2, 'Softmax')],
         'learning_rate': 0.01,
         'learning_rule': 'adagrad',
-        'n_iter': 300
+        'n_iter': 500
     },
     'address-model': {
         'type': 'Neural-Network',
         'layers': [(10, 'Sigmoid'), (2, 'Softmax')],
         'learning_rate': 0.01,
         'learning_rule': 'adagrad',
-        'n_iter': 300
+        'n_iter': 500
     },
     'phone-model': {
         'type': 'Neural-Network',
         'layers': [(10, 'Sigmoid'), (2, 'Softmax')],
         'learning_rate': 0.01,
         'learning_rule': 'adagrad',
-        'n_iter': 300
+        'n_iter': 500
     }
 }
 featureConfig = {
